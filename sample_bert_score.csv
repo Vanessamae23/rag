@@ -1,0 +1,2 @@
+Question,Answer,Cleaned_BERTScore_F1,Cleaned_BERTScore_Precision,Cleaned_BERTScore_Recall,Cleaned_Cosine_Similarity,Uncleaned_BERTScore_F1,Uncleaned_BERTScore_Precision,Uncleaned_BERTScore_Recall,Uncleaned_Cosine_Similarity
+Which country is Jakarta the capital of?,Jakarta is the capital of Indonesia,0.844748318195343,0.849027156829834,0.8405123949050903,0.8688157,0.9837666153907776,0.9825209379196167,0.9850155115127563,0.9742967
